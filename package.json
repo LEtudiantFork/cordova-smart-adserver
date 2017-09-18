@@ -9,9 +9,6 @@
       "android"
     ]
   },
-  "dependencies": {
-    "cordova-plugin-extension": "*"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/LEtudiantFork/cordova-smart-adserver"

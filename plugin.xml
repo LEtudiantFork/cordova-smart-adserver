@@ -21,7 +21,7 @@
         <clobbers target="window.SmartAdServer" />
     </js-module>
 
-	<dependency id="cordova-plugin-extension" />
+	<dependency id="cordova-plugin-extension" version="1.5.2" />
 
     <!-- android -->
     <platform name="android">
