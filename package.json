@@ -10,7 +10,7 @@
     ]
   },
   "dependencies": {
-    "com.rjfun.cordova.extension": "git+https://github.com/floatinghotpot/cordova-extension.git"
+    "cordova-plugin-extension": "*"
   },
   "repository": {
     "type": "git",
