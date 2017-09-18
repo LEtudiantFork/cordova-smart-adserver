@@ -1,0 +1,18 @@
+
+{
+  "name": "cordova-smart-adserver",
+  "version": "1.0.1",
+  "description": "Cordova SmartAd Plugin",
+  "cordova": {
+    "id": "cordova-smart-adserver",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LEtudiantFork/cordova-smart-adserver"
+  },
+  "license": "Apache-2.0"
+}
